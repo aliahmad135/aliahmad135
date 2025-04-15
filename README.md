@@ -28,8 +28,8 @@ The solution delivers a ready-to-use, live portal instantly, addressing the chal
 - **Dynamic Educational Portal**: Delivered a scalable, plug-and-play portal solution for institutes, reducing setup time to 5 minutes.
 
 ### Contact 📬
-- **LinkedIn**: [Sabahat Atique](https://www.linkedin.com/in/sabahat-atique) 🔗
-- **Email**: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
+- **LinkedIn**: [Ali Ahmad](https://www.linkedin.com/in/ali-ahmad-15a38a242/) 🔗
+- **Email**: [mianali1027@gmail.com](mailto:mianali1027@gmail.com)
 
 ### Future Goals 🌟
 I am deeply committed to **innovating in full-stack development** and contributing to **open-source platforms** that drive measurable impact. My short-term goals include:
