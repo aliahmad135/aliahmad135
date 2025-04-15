@@ -2,8 +2,8 @@
 A **passionate Full-Stack Developer** 🚀 with a strong background in building dynamic applications and contributing to open-source projects. I thrive on solving complex problems, enhancing user experiences, and creating impactful solutions 💡. With 7+ years of experience in **web development, data visualization**, and **business-oriented solutions**, I aim to drive innovation and efficiency 🌟 in every project I undertake.
 
 📍 Based in Lahore, Pakistan
-💌 Reach me via email: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/sabahat-atique)
+💌 Reach me via email: [mianali1027@gmail.com](mailto:mianali1027@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/ali-ahmad-15a38a242/)
 
 
 ### Projects 🚀
