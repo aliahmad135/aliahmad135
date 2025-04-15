@@ -12,7 +12,7 @@ Set up Apache Superset and enhanced its capabilities by developing multiple plug
 This contribution streamlined analytics workflows and optimized data reporting.
 - **[Dynamic Educational Portal](https://github.com/aliahmad135/dynamic-portal.git)**: Developed a Dynamic Educational Portal that enables any institute to create and customize their own portal within 5 minutes 🚀.
 The solution delivers a ready-to-use, live portal instantly, addressing the challenges of scalability and customization for educational institutes.
-- **[MarketEase](https://github.com/aliahmad135/market-ease.git)**: MarketEase is a revolutionary web-application platform designed to streamline client engagement, enhance growth strategies, and empower business developers, digital marketers, freelancers, and individual business owners. By unifying essential tools in a single platform, ATOM improves efficiency, reduces operational costs, and fosters business growth.
+- **[Market Ease](https://github.com/aliahmad135/market-ease.git)**: MarketEase is a revolutionary web-application platform designed to streamline client engagement, enhance growth strategies, and empower business developers, digital marketers, freelancers, and individual business owners. By unifying essential tools in a single platform, ATOM improves efficiency, reduces operational costs, and fosters business growth.
 
 
 ### Skills 🔧
